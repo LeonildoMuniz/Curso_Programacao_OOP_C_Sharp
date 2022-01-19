@@ -1,0 +1,15 @@
+C:\ws-visualstudeo\ex_vetor\ex_vetor\bin\Debug\net6.0\ex_vetor.exe
+C:\ws-visualstudeo\ex_vetor\ex_vetor\bin\Debug\net6.0\ex_vetor.deps.json
+C:\ws-visualstudeo\ex_vetor\ex_vetor\bin\Debug\net6.0\ex_vetor.runtimeconfig.json
+C:\ws-visualstudeo\ex_vetor\ex_vetor\bin\Debug\net6.0\ex_vetor.dll
+C:\ws-visualstudeo\ex_vetor\ex_vetor\bin\Debug\net6.0\ref\ex_vetor.dll
+C:\ws-visualstudeo\ex_vetor\ex_vetor\bin\Debug\net6.0\ex_vetor.pdb
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.csproj.AssemblyReference.cache
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.AssemblyInfoInputs.cache
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.AssemblyInfo.cs
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.csproj.CoreCompileInputs.cache
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.dll
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ref\ex_vetor.dll
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.pdb
+C:\ws-visualstudeo\ex_vetor\ex_vetor\obj\Debug\net6.0\ex_vetor.genruntimeconfig.cache
