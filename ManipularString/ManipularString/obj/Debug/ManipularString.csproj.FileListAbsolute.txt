@@ -1,0 +1,10 @@
+C:\Curso\ManipularString\ManipularString\bin\Debug\ManipularString.exe.config
+C:\Curso\ManipularString\ManipularString\bin\Debug\ManipularString.exe
+C:\Curso\ManipularString\ManipularString\bin\Debug\ManipularString.pdb
+C:\Curso\ManipularString\ManipularString\obj\Debug\ManipularString.csprojAssemblyReference.cache
+C:\Curso\ManipularString\ManipularString\obj\Debug\ManipularString.Form1.resources
+C:\Curso\ManipularString\ManipularString\obj\Debug\ManipularString.Properties.Resources.resources
+C:\Curso\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.GenerateResource.cache
+C:\Curso\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.CoreCompileInputs.cache
+C:\Curso\ManipularString\ManipularString\obj\Debug\ManipularString.exe
+C:\Curso\ManipularString\ManipularString\obj\Debug\ManipularString.pdb
