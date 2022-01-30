@@ -1,0 +1,10 @@
+C:\Curso\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe.config
+C:\Curso\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe
+C:\Curso\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.pdb
+C:\Curso\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csprojAssemblyReference.cache
+C:\Curso\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Form1.resources
+C:\Curso\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Properties.Resources.resources
+C:\Curso\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.GenerateResource.cache
+C:\Curso\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.CoreCompileInputs.cache
+C:\Curso\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.exe
+C:\Curso\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.pdb
