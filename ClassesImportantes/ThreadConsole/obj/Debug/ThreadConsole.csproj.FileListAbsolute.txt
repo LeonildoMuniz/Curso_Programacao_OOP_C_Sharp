@@ -1,0 +1,7 @@
+C:\Curso\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+C:\Curso\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.exe
+C:\Curso\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.pdb
+C:\Curso\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.csprojAssemblyReference.cache
+C:\Curso\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.csproj.CoreCompileInputs.cache
+C:\Curso\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.exe
+C:\Curso\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.pdb
